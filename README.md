@@ -25,7 +25,7 @@ Since the spider named amazon already exists, you just have to start the spider 
   !scrapy crawl Amazon -o data.csv
 ```
     
-You can display data using Pandas with commands shown below:
+You can display data using Pandas with commands shown below.
 
 ```bash
   import pandas as pd
